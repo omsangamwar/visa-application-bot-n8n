@@ -1,4 +1,4 @@
-# WhatsApp Visa Automation (n8n)
+# Visa Application Automation (n8n)
 
 An end-to-end automation that lets applicants apply for a visa, upload documents, and track their status — entirely over WhatsApp.
 
