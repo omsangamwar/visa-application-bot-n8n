@@ -5,6 +5,9 @@ An end-to-end automation that lets applicants apply for a visa, upload documents
 ## 🎥 Demo Video
 https://drive.google.com/file/d/1JRBDy5YMRmSNsUY507yeWt6G5czoACGe/view?usp=sharing
 
+## Project Architecture 
+<img width="1435" height="602" alt="image" src="https://github.com/user-attachments/assets/d57d2808-0943-4c02-b4c0-6bd78ad43878" />
+
 ## What it does
 
 - Applicants message a WhatsApp number to start or continue their visa application
